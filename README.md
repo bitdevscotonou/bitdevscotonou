@@ -1,19 +1,40 @@
-# bitdev-cotonou-bitnob-api-workshop
+# ⚡ bitdev-cotonou-bitnob-api-workshop
 
-## Project setup
-```
+Une interface Vue.js simple pour envoyer des paiements en Bitcoin via le Lightning Network en utilisant l'API de Bitnob. Ce projet a été développé pour les participants du workshop BitDev à Cotonou.
+
+## 🧪 Fonctionnalités
+
+- Saisie de l'adresse Lightning (LNURL)
+- Saisie du montant en satoshis
+- Saisie de l'e-mail du client (requis par Bitnob)
+- Envoi d'un paiement via Bitnob API
+- Affichage des messages de succès ou d’erreur
+
+## 🛠️ Technologies
+
+- Vue 3
+- Axios
+- Lightning Network
+- Bitnob API
+
+## 🔧 Configuration du projet
+
+### Installation des dépendances
+
 yarn install
-```
 
-### Compiles and hot-reloads for development
+
+### Lancement en mode développement
 ```
 yarn serve
 ```
 
-### Compiles and minifies for production
+### Compilation pour la production
 ```
 yarn build
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Configuration de l'API
+
+VITE_BITNOB_API_KEY=sk.*********************
+
