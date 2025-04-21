@@ -1,40 +1,23 @@
-# ⚡ bitdev-cotonou-bitnob-api-workshop
+# Bitdevs Cotonou
 
-Une interface Vue.js simple pour envoyer des paiements en Bitcoin via le Lightning Network en utilisant l'API de Bitnob. Ce projet a été développé pour les participants du workshop BitDev à Cotonou.
+<p align="center">
+  ![Bitdevs Cotonou Crew](./assets/BitdevsCotonouCrew.jpg)
+</p>
 
-## 🧪 Fonctionnalités
+## Hi there 👋
 
-- Saisie de l'adresse Lightning (LNURL)
-- Saisie du montant en satoshis
-- Saisie de l'e-mail du client (requis par Bitnob)
-- Envoi d'un paiement via Bitnob API
-- Affichage des messages de succès ou d’erreur
+BitDevsCotonou is a community in Cotonou, Benin, for those interested in discussing and participating in the research and development of Bitcoin and related protocols and software.
 
-## 🛠️ Technologies
+### Socratic Seminars
 
-- Vue 3
-- Axios
-- Lightning Network
-- Bitnob API
+We host monthly events formatted as Socratic Seminar to foster debate, information sharing and lively discussions. In the weeks preceding the event, discussion topics are collated by our members from a variety of sources: pull requests in popular git repositories (e.g. Bitcoin Core, lnd, c-lightning, Joinmarket, Elements Alpha, Fedimint and Electrum), research papers, technical blog posts, IRC logs, network monitors and more.
 
-## 🔧 Configuration du projet
+During the socratic seminar meeting, members present open source projects, companies, research and other relevant materials. A feedback and Q&A section follow. After the event the group may gather at a nearby restaurant to continue socializing.
 
-### Installation des dépendances
+### Actionables
 
-yarn install
+🧙 Join us on our [Group](https://chat.whatsapp.com/IfsmzGeleeUBwvy1AJ6W9U) or [Twitter (now X)](https://x.com/bitdevscotonou)
 
+🙋‍♀️ Subscribe to our [Luma event calendar](https://lu.ma/bitdevscotonou) to get notified on upcoming events
 
-### Lancement en mode développement
-```
-yarn serve
-```
-
-### Compilation pour la production
-```
-yarn build
-```
-
-### Configuration de l'API
-
-VITE_BITNOB_API_KEY=sk.*********************
-
+👩‍💻 Suggest a topic of discussion via Github Issues here, or on the group
