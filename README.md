@@ -1,7 +1,7 @@
 # Bitdevs Cotonou
 
 <p align="center">
-  ![Bitdevs Cotonou Crew](./assets/BitdevsCotonouCrew.jpg)
+  <img src="/assets/BitdevsCotonouCrew.jpg" width="500" height="500">
 </p>
 
 ## Hi there 👋
